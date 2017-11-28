@@ -11,7 +11,7 @@ How to get started with iOS apps development by coding a simple application in a
 
 ## Setup
 1. Download [Xcode 9](https://download.developer.apple.com/Developer_Tools/Xcode_9/Xcode_9.xip)
-2. Use the command to clone the repository: `git clone https://github.com/michelbueno/iOSBasicsWorkshopSkeleton.git`
+2. Use the command to clone the repository: `git clone https://github.com/raafaelima/iOSBasicsWorkshopSkeleton.git`
 3. Open the project on Xcode
 5. Run the project on the emulator
 
